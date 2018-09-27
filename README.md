@@ -3,8 +3,8 @@
 ## Prerequisites
 >Download FileZilla software.
 
+## Tutorial
 
----
 1. Open FileZilla, choose edit-->setting.
 ![stp1.PNG](/img/stp1.PNG)
 2. Type SFTP, and add your ppk file for bastion instance.
