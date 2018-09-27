@@ -26,5 +26,7 @@ You can follow these steps to connect to your bastion machine:
 
 ![stp5.PNG](/img/stp5.PNG)
 
+6. Now you can open your bastion machine by an internal key pair.
+
 ## Reference
 * [Connect to Amazon EC2 file directory using Filezilla and SFTP](https://www.youtube.com/watch?v=e9BDvg42-JI)
