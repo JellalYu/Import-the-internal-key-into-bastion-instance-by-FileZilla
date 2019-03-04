@@ -10,7 +10,7 @@ You can follow these steps to connect to your bastion machine:
 
 ![stp1.PNG](/img/stp1.PNG)
 
-2. Type SFTP, and add your ppk file for bastion instance.
+2. Click SFTP, and add your ppk file for bastion instance.
 
 ![stp2.PNG](/img/stp2.PNG)
 
@@ -18,7 +18,7 @@ You can follow these steps to connect to your bastion machine:
 
 ![stp3.PNG](/img/stp3.PNG)
 
-4. Type **New Site** and paste the Public IP of bastion instance in **Host** then **connect**.
+4. Choose **New Site** and paste the Public IP of bastion instance in **Host** then **connect**.
 
 ![stp4.PNG](/img/stp4.PNG)
 
